@@ -16,6 +16,7 @@ Por ello, el dueño de la casa de cambio desea tener un sistema que le permita:
 8. Salir
 
 Restricciones:
+
 a) las opciones 1 y 2 sólo se deben ejecutar 1 vez al día.
 
 b) las opciones 3, 4, y 5 no se realizarán si no se cuenta con el suficiente efectivo para realizar la transacción 
